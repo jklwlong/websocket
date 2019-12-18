@@ -1,0 +1,3 @@
+com\gr\socket\WebsocketApplication.class
+com\gr\socket\config\WebSocketConfig.class
+com\gr\socket\WebSocket.class
